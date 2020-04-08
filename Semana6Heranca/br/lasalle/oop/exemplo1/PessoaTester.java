@@ -9,6 +9,7 @@ public class PessoaTester {
 		Aluno aluno = new Aluno();
 		Funcionario funcionario = new Funcionario();
 		
+		
 		pessoa.setNome("Alex");
 		pessoa.setIdade(10);
 		pessoa.setSexo("M");
